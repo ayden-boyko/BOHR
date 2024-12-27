@@ -4,7 +4,7 @@
 BOHR was created to streamline the application process. BOHR gives users the option to save application data (answers to questions, skills, etc). This data can then be autofilled for future resumes, drastically cutting down on application time.
 
 > [!TIP]
-> The more data a user saves, the more useful BOHR will be. As more applications are filled, the time to fill will decrease. BOHR is what you make of it.
+> The more data a user saves, the more useful BOHR will be. As more applications are filled, the time spen on them will decrease. BOHR is what you make of it.
 ## Authors
 
 - [@aydenboyko](https://www.github.com/ayden-boyko)
