@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "BOHR",
+  "version": "1.0",
+
+  "description": "Streamlines the application submition process by saving data and autofilling it for future resumes.",
+  "homepage_url": "https://github.com/ayden-boyko/BOHR",
+  "icons": {
+    "48": "icons/BOHR-48.png"
+  },
+
+  "permissions": ["storage", "activeTab"],
+
+  "browser_action": {
+    "default_icon": "icons/BOHR-38.png",
+    "default_title": "BOHR - Bag of Holding Resumes",
+    "default_popup": "popups/bohr.html"
+  }
+}
