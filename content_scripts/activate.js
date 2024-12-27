@@ -10,7 +10,7 @@
 
     * save.js will save the data to the json file or the mongodb database
 
-    TODO: add functionality to autofill data
+    TODO: add functionality to autofill data, DO NOT FILL IN FIELDS THAT HAVE ALREADY BEEN FILLED
     ! THIS IS THE PURPOSE OF ACTIVATE.JS
 
     TODO: add HTML dom manipulation to place buttons under fields for two options:
