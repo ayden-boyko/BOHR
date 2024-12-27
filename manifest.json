@@ -12,7 +12,7 @@
   "permissions": ["storage", "activeTab"],
 
   "browser_action": {
-    "default_icon": "icons/BOHR-38.png",
+    "default_icon": "icons/BOHR-48.png",
     "default_title": "BOHR - Bag of Holding Resumes",
     "default_popup": "popups/bohr.html"
   }
